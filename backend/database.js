@@ -161,7 +161,7 @@ const deleteStudent = async (id) => {
             });
     });
 }
-
+                
 module.exports = {
     readTeachers,
     readStudents,
@@ -175,8 +175,9 @@ module.exports = {
     updateTeacher
 };
 
+                
 
-
+                
 
 
 
